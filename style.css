@@ -1,0 +1,33 @@
+.centralizar{
+    display: flex;
+    justify-content: center;
+}
+
+.espaçamento{
+    padding: 10vh 0 1vh 0;
+}
+.box{
+    width: 100%;
+    display: flex;
+    gap: 2vw;
+    text-align: center;
+    p{
+        text-align: justify;
+    }
+}
+.cards{
+    width: 25%;
+}
+
+.equipe{
+    text-align: center;
+    font-size: 4vh;
+    padding: 10vh 0 1vh 0;
+
+}
+
+.text{ 
+    text-align: center;
+    font-size: 4vh;
+    padding: 10vh 0 1vh 0;
+}
